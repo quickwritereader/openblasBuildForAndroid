@@ -32,7 +32,7 @@ Inside that shell
 ``` 
   cd /data/local/tmp
   chmod 755 testblas.x 
-  /testblas.x
+  ./testblas.x
 ```
 
 
