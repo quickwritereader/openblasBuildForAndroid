@@ -1,11 +1,18 @@
-# openblasBuildForAndroid
+# openblasBuildForAndroid new
+
+bash compand_new.sh
+
+*Architectures*  
+armv7a arm64-v8a x86 x86_64  
+
+# openblasBuildForAndroid Old
 
 Run   
-./compand all  
+bash compand.sh all  
 
 Run just for spesific architectures  
 
-./compand arm64-v8a x86_64  
+bash compand.sh arm64-v8a x86_64  
 
 *Architectures*  
 armeabi armv7a arm64-v8a mips mips64  x86 x86_64  
